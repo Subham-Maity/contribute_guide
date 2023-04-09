@@ -3,7 +3,7 @@
 *Checkout :*
 
 - **Dev.to :**  https://dev.to/codexam/how-to-contribute-to-a-github-repository-1nk2
-- **Hashnode**  https://codexam.hashnode.dev/how-to-contribute-to-a-github-repository#heading-cheatsheet
+- **Hashnode**  https://codexam.hashnode.dev/how-to-contribute-to-a-github-repository
 
 # How to Contribute to a GitHub Repository 🚀
 
